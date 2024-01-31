@@ -1,5 +1,8 @@
 ## Blog Generator 
-So essentially this blog generator uses LLAam 2 By meta to generate the Blog. The frontend UI is made with StreamLit.
+
+### About The Project
+This blog generator is an end-to-end complete application designed to generate blogs given a particular keyword. The way it works is by using
+LLAam 2 By meta to generate the Blog apart from that the entire frontend UI is made with StreamLit. It can generate a blog in about  1 to 5min depending on the computing power of the PC
 
 ### Steps to Initialize
 1) Clone the Repo
